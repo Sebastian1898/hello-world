@@ -1,4 +1,4 @@
 # hello-world
 beginning repository
 
-wuxi i-core wengzb
+wuxi i-core
